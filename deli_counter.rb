@@ -5,4 +5,4 @@ def the_line(wait)
   if wait.length == 0 
     puts "The line is currently empty"
   else 
-    
+    wait.each.
